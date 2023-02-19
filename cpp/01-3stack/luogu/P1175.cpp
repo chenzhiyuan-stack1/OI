@@ -109,8 +109,8 @@ void calc()
 int main()
 {   
     string s;
-	cin>>s;   
-	change(s);
-	calc();
-	return 0;
+    cin>>s;   
+    change(s);
+    calc();
+    return 0;
 }
